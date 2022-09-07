@@ -2,16 +2,16 @@
 [x] Values
 [x] Variables
 [x] Constants
-[ ] For
-[ ] If/Else
-[ ] Switch
+[x] For
+[x] If/Else
+[x] Switch
 [ ] Arrays
 [ ] Slices
 [ ] Maps
 [ ] Range
 [ ] Functions
 [ ] Multiple Return Values
-[ ] Variadic Functions
+[x] Variadic Functions
 [ ] Closures
 [ ] Recursion
 [ ] Pointers
