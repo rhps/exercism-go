@@ -5,8 +5,8 @@
 [x] For
 [x] If/Else
 [x] Switch
-[ ] Arrays
-[ ] Slices
+[x] Arrays
+[x] Slices
 [ ] Maps
 [ ] Range
 [ ] Functions
