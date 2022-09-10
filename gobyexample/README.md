@@ -7,17 +7,17 @@
 [x] Switch
 [x] Arrays
 [x] Slices
-[ ] Maps
-[ ] Range
-[ ] Functions
-[ ] Multiple Return Values
+[x] Maps
+[x] Range
+[x] Functions
+[x] Multiple Return Values
 [x] Variadic Functions
-[ ] Closures
-[ ] Recursion
-[ ] Pointers
-[ ] Strings and Runes
-[ ] Structs
-[ ] Methods
+[x] Closures
+[x] Recursion
+[x] Pointers
+[x] Strings and Runes
+[x] Structs
+[x] Methods
 [ ] Interfaces
 [ ] Struct Embedding
 [ ] Generics
