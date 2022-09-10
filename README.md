@@ -4,6 +4,13 @@ This repo is my journey to learn Golang. I am trying to solved [Golang Track on 
 
 ## Exercism
 
+#### 10 September 2022
+- Animal Magic ([animal-magic](https://exercism.org/tracks/go/exercises/animal-magic))
+- Need for Speed ([need-for-speed](https://exercism.org/tracks/go/exercises/need-for-speed))
+- Bird Watcher ([bird-watcher](https://exercism.org/tracks/go/exercises/bird-watcher))
+- Lasagna Master ([lasagna-master](https://exercism.org/tracks/go/exercises/lasagna-master))
+- Interest is Interesting ([interest-is-interesting](https://exercism.org/tracks/go/exercises/interest-is-interesting))
+
 #### 8 September 2022
 - Hamming ([hamming](https://exercism.org/tracks/go/exercises/hamming))
 - Two Fer ([two-fer](https://exercism.org/tracks/go/exercises/two-fer))
